@@ -1,2 +1,2 @@
 # shakumbi.github.io
-First time use
+My first Jekyll site on GitHub
